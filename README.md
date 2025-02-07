@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @morgyan
 - 👀 I’m interested in coding machine learning algorithms
-- 🌱 I’m currently learning Python java c#
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently working with javascript and python 
+- 💞️ I’m looking to collaborate on  
 - 📫 How to reach me ...
 
 <!---
